@@ -27,9 +27,9 @@ import javax.jdo.PersistenceManager;
 
 public class AnonymousEngineServlet extends AbstractRobot {
 
-	private static final String CONSUMER_KEY = "anonymous@sycadellicman.ath.cx";
-	private static final String CONSUMER_SECRET = "Mh6uOkHHlGH3ropxiDTH4QSSHBiwjrexe8rhP_pRoYJwTWdX";
-	private static final String DOMAIN_ROOT = "http://sycadellicman.ath.cx:9898";
+	private static final String CONSUMER_KEY = "";
+	private static final String CONSUMER_SECRET = "";
+	private static final String DOMAIN_ROOT = "";
 	private static final String rpcserverurl = DOMAIN_ROOT + "/robot/rpc";
 
 	public AnonymousEngineServlet() {
